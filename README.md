@@ -87,9 +87,9 @@
 ------
 
 ### 📸 示例截图
-![](F:\Haoyang_Sun\programming_task\20250605-llm(ds)\example1.png)
+![](example1.png)
 
-![](F:\Haoyang_Sun\programming_task\20250605-llm(ds)\example2.png)
+![](example2.png)
 
 
 
